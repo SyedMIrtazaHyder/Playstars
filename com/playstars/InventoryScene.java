@@ -377,7 +377,7 @@ public class InventoryScene {
 					labelSpd.setText(user.getInventory(9).getQuantity());
 					
 					Spinner.totalPrice.setText("Total Price: 0");
-					
+					Spinner.total = 0;
 					
 				}
 				else
